@@ -1,0 +1,21 @@
+$mobile-media-query: 0px;
+$mobile-max-width: 100%;
+$mobile-min-height: 100%;
+$mobile-max-height: 40px;
+$mobile-padding: 12px 24px;
+$mobile-font-size: 12px;
+$mobile-line-height: 16px;
+$mobile-modal-padding: 32px 16px 16px;
+
+$tablet-media-query: 768px;
+$tablet-max-width: 453px;
+
+$desktop-media-query: 1440px;
+$desktop-popup-width: 552px;
+
+$option-background-color: linear-gradient(
+    255.35deg,
+    #dc3131 0.83%,
+    rgba(255, 79, 79, 0) 108.93%
+  ),
+  #ff5e56;
