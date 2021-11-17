@@ -341,7 +341,7 @@ export default {
     }
   }
   &__option {
-    transition: all 0.1s ease-in;
+    transition: all 0.1s linear;
     cursor: pointer;
     background: $option-background-color;
     border-radius: 50px;
